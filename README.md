@@ -1,3 +1,4 @@
+<img width="2248" height="1216" alt="gitgame" src="https://github.com/user-attachments/assets/805dfa52-af14-4115-9150-50a1a04937ba" />
 # UoL-ITP-Cat-Conqueror-Game-
 Game Project Completed for UoL's Introduction to Programming Module
 ▶ Play here: https://abdulla-hiyaz.github.io/UoL-ITP-Cat-Conqueror-Game/
