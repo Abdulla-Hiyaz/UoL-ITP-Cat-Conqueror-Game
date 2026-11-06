@@ -1,3 +1,4 @@
+<img width="2248" height="1216" alt="gitgame" src="https://github.com/user-attachments/assets/266f44a3-da50-4e4f-bed0-7583bbe53743" />
 # 🐱 Cat Conqueror
 
 A side-scrolling 2D platformer built with **JavaScript** and **p5.js** for the University of London *Introduction to Programming* module.
